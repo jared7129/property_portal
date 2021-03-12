@@ -12,7 +12,7 @@ i.e You must have python 3 and the django 3 environment installed in order to ru
 
 git clone https://github.com/jared7129/property_portal.git
 
-## Step 2 - Rusqlite3n migrations
+## Step 2 - Run migrations
 
 Run the following command - python manage.py migrate
 

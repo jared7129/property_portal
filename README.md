@@ -3,6 +3,11 @@ Real Estate website for buying and selling houses made using django and bootstra
 
 developed using python
 
-![](https://raw.githubusercontent.com/manumanoj0010/Real-State-Website/master/Screenshot.png)
 
-`Demo Video` : <https://youtu.be/Or06u-DSFfY>
+# Steps to Install
+
+i.e You must have python 3 and the django 3 environment installed in order to run the app
+
+## Step 1 - Clone the project down locally
+
+git clone 
